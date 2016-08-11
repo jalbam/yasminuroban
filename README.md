@@ -13,3 +13,5 @@ Description
 
 Yasminuroban is an open source "Sokoban" alike game totally written in DHTML (JavaScript, CSS and HTML) that uses keyboard. Includes level editor.
 This cross-platform and cross-browser game was tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, Windows and others.
+
+Official web site: http://yasminuroban.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/yasminuroban/).

@@ -1,0 +1,33 @@
+Ya realizado:
+//(kreo) * poner un boton para ersizear mapa ia ke no va bien el onchange o buskar algo mejor si eso xd
+//(kreo)* a veces el juego no reinicia bien el nivel editado (kon el boton verde de reiniciar)
+//(kreo)* en el nivel 2 hay un bug ke al empujar una pieza k no tiene nada en frente pero luego se akaba el mapa (sin piedras ni nada delimitante luego), el personaje se pone encima de la botella!!!
+//(kreo)* poder poner solo un personaje o solo un personaje encima del agujero, pero solo uno i ia esta. si se eskribe otro, borrar el anterior.
+//(kreo)* no dejar probar el mapa si no existe un personaje o un personaje+kopa debajo en el!!!
+//(kreo)* no dejar probar el mapa si existen mas botellas ke kopas!!!
+//(kreo)* comentar bien el codigo del editor de mapas.
+
+Poca importancia:
+* (plantear) hacer los gifs animados
+
+Media importancia:
+* kambiar el onchange de resizear el mapa en el editor, i solo resizearlo kuando se aprete en el boton APLICAR (es ke si se kiere kambiar tanto la x y la y, los dos confirm ke salen kada vez ke kambias uno molestan!!!)
+* kitar la imagen esa transparente del personaje i la kopa debajo, i poner la yasmina igual pero kuando este el kursor encima kambiarlo.. (no usar efekto alpha porke en opera no iria!)
+
+Mucha importancia:
+* utilizar zindex en el editor.
+* en el firefox en el editor de mapas sale el mensaje de kargando... pero luego desaparece i aun sigue pintando el mapa (algo parecido tambien en opera, i kiza en explorer iwal).
+//(kreo) * en segun ke niveles i situaciones, al tirar mucho a la derecha i luego una vez a la izkierda la imagen del personaje se pone en down i no en left. hay k solucionarlo (kiza sea por el settimeout pero no kreo porke entra en mover_personaje ia komo yas_down1.gif).
+//(kreo) * optimizar yasminuroban: no tener ke repintar todo al mover una botella!!! poner en kada div un id kon el numero de celda korrespondiente al array del mapa, i al mover una botella hacia la izkierda kambiar el div de la izkierda por la imagen del personaje i el siguiente por la botella.. i asi kon las demas direkciones tambien.
+//(kreo) * no aktualizar la barra de informacion si el personaje no se ha movido!!!
+
+Por probar:
+* (plantear) quiza un contador de z-index en los div que genera mostrar_mapa que vaya desde el ultimo zindex del documento hasta donde sea.
+* (plantear) quiza un borde en el mapa, para k determine el tamaño de este... (kuando hay muchos espacios en blanco no se sabe a donde puede llegar el personaje xd)
+* probar en distintas resoluciones tanto el juego komo el editor.
+* (plantear) kiza poner un div kon la url hacia index.htm kuando se esta jugando i aktualizarlo en kada movimiento, para poder darle a tus amigos la url i k jueguen desde donde te enkuentras...
+* quitar simbolos no numericos en width y height pasados por url tanto en index como en editor.
+
+Problemas:
+* en firefox 1.0.3 el editor de mapas no para de kargar (pone en la barra de estado "esperando a [url]...").
+* en opera al selekcionar la ultima opcion no se ve el borde del rekuadro derecho, kiza por no ser transparente la imagen de la goma... (pues no, no es por eso xD)
