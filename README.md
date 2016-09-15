@@ -10,6 +10,9 @@ Version: 0.68a
 You can donate at http://sourceforge.net/donate/index.php?group_id=173641
 
 
+![ScreenShot](screenshot.gif)
+
+
 Description
 
 Open source Sokoban (aka Warehouse keeper) version totally written in DHTML (HTML, CSS and JavaScript). With level editor.
