@@ -13,7 +13,7 @@ You can donate at http://sourceforge.net/donate/index.php?group_id=173641
 ![ScreenShot](screenshot.gif)
 
 
-Description
+## Description
 
 Open source Sokoban (aka Warehouse keeper) version totally written in DHTML (HTML, CSS and JavaScript). With level editor.
 
@@ -29,5 +29,12 @@ You can find other modified and adapted versions of this game on the Internet (w
 
 This game has been tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, Windows, Mac OS X and others.
 
+Play online in English: http://yasminuroban.tuxfamily.org/yasminuroban_english/
+
+Play online in English (mirror): http://www.dhtmlgames.com/yasminuroban/yasminuroban_english/
+
+Play online in Spanish: http://yasminuroban.tuxfamily.org/yasminuroban_spanish/
+
+Play online in Spanish (mirror): http://www.dhtmlgames.com/yasminuroban/yasminuroban_spanish/
 
 Official web site: http://yasminuroban.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/yasminuroban/).
