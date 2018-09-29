@@ -38,3 +38,8 @@ Play online in Spanish: http://yasminuroban.tuxfamily.org/yasminuroban_spanish/
 Play online in Spanish (mirror): http://www.dhtmlgames.com/yasminuroban/yasminuroban_spanish/
 
 Official web site: http://yasminuroban.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/yasminuroban/).
+
+
+## License
+
+This project can be used, reproduced, distributed and modified freely for any non-commercial purposes but always keeping the author's name and copyright clauses. Other than that, just use this project as you wish but never sell it!
