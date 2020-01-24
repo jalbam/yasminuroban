@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.01</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.0.1.35 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Juan Alba Maldonado</Company_Name>
+		<Address_1 />
+		<Address_2 />
+		<City_Town>Cambrils</City_Town>
+		<State_Province>Tarragona</State_Province>
+		<Zip_Postal_Code>43850</Zip_Postal_Code>
+		<Country>Spain</Country>
+		<Company_WebSite_URL>http://www.granvino.com/jam</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Juan</Author_First_Name>
+			<Author_Last_Name>Alba Maldonado</Author_Last_Name>
+			<Author_Email>granvino@granvino.com</Author_Email>
+			<Contact_First_Name>Juan</Contact_First_Name>
+			<Contact_Last_Name>Alba Maldonado</Contact_Last_Name>
+			<Contact_Email>granvino@granvino.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>granvino@granvino.com</Sales_Email>
+			<Support_Email>granvino@granvino.com</Support_Email>
+			<General_Email>granvino@granvino.com</General_Email>
+			<Sales_Phone>687653924</Sales_Phone>
+			<Support_Phone>687653924</Support_Phone>
+			<General_Phone>687653924</General_Phone>
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Yasminuroban</Program_Name>
+		<Program_Version>0.68a</Program_Version>
+		<Program_Release_Month>06</Program_Release_Month>
+		<Program_Release_Day>26</Program_Release_Day>
+		<Program_Release_Year>2006</Program_Release_Year>
+		<Program_Cost_Dollars>0</Program_Cost_Dollars>
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support>No Install Support</Program_Install_Support>
+		<Program_OS_Support>Win 3.1x,Win95,Win98,WinME,WinNT 3.x,WinNT 4.x,Windows2000,WinXP,Windows2003,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64,Unix,Linux,Linux Gnome,Linux GPL,Linux Open Source,AS/400,OS/2,OS/2 Warp,OS/2 Warp 4,Mac PPC,Mac OS 9,Mac OS X,Mac OS X 10.1,Mac OS X 10.2,Mac OS X 10.3,Mac OS X 10.4,Mac OS X 10.5,Mac Other,Palm OS 1.0,Palm OS 2.0,Palm OS 2.1,Palm OS 3.0,Palm OS 3.1,Palm OS 3.2,Palm OS 4.0,Palm OS 5.0,Palm OS 6.0,Windows CE,Pocket PC,Windows Mobile 2003,Windows Mobile 2005,Symbian,Handheld/Mobile Other,BEOS</Program_OS_Support>
+		<Program_Language>English,Spanish</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category>Games</Program_Specific_Category>
+		<Program_Category_Class>Games &amp; Entertainment::Puzzle &amp; Word Games</Program_Category_Class>
+		<Program_System_Requirements />
+		<File_Info>
+			<File_Size_Bytes>49868</File_Size_Bytes>
+			<File_Size_K>48</File_Size_K>
+			<File_Size_MB>0.05</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>sokoban, warehouse, warehouse keeper, keeper, boxes, puzzle, so ko ban, javascript, dhtml, css, html, web, online, web based, level editor</Keywords>
+			<Char_Desc_45>Sokoban alike game with level editor.</Char_Desc_45>
+			<Char_Desc_80>Yasminuroban is an open source "Sokoban" alike game with a level editor.</Char_Desc_80>
+			<Char_Desc_250>Yasminuroban is an open source "Sokoban" alike game totally written in DHTML (JavaScript, CSS and HTML) that uses keyboard. Includes level editor.</Char_Desc_250>
+			<Char_Desc_450>Yasminuroban is an open source "Sokoban" alike game totally written in DHTML (JavaScript, CSS and HTML) that uses keyboard. Includes level editor. This cross-platform and cross-browser game was tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, Windows and others.</Char_Desc_450>
+			<Char_Desc_2000>Yasminuroban is an open source "Sokoban" alike game totally written in DHTML (JavaScript, CSS and HTML) that uses keyboard. Includes level editor.
+This cross-platform and cross-browser game was tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, MacOS, Windows and others.
+Only you need a DHTML compatible web browser with JavaScript enabled to play it.
+You can edit your own levels with the level editor and play with it.
+Also, you can edit source code of the game and include more levels, change graphics, include improves, etc... You only need to maintain author name and don't change it.
+JavaScript is a interpreted language, like Java, Flash, Python, etc. But JavaScript doesn't need any plugin to install!</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://yasminuroban.tuxfamily.org/</Application_Info_URL>
+			<Application_Order_URL>http://www.granvino.com/jam</Application_Order_URL>
+			<Application_Screenshot_URL>http://yasminuroban.tuxfamily.org/yasminuroban.gif</Application_Screenshot_URL>
+			<Application_Icon_URL>http://yasminuroban.tuxfamily.org/icon.gif</Application_Icon_URL>
+			<Application_XML_File_URL>http://yasminuroban.tuxfamily.org/yasminuroban_pad_file.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://yasminuroban.tuxfamily.org/yasminuroban_english.zip</Primary_Download_URL>
+			<Secondary_Download_URL>http://www.granvino.com/jam/download/juegos/yasminuroban/yasminuroban_english.zip</Secondary_Download_URL>
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>Prohibited to reproduce or modify without maintain original author's name</Distribution_Permissions>
+		<EULA>Prohibited to reproduce or modify without maintain original author's name</EULA>
+	</Permissions>
+</XML_DIZ_INFO>
