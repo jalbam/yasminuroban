@@ -22,3 +22,4 @@
 *.RTF	 diff=astextplain
 
 *.htm linguist-language=JavaScript
+*.php linguist-detectable=false
